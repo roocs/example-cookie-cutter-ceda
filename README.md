@@ -1,11 +1,11 @@
 # example-cookie-cutter-ceda
 
 
-[![Pypi][https://img.shields.io/pypi/v/example_cookie_cutter_ceda.svg]][https://pypi.python.org/pypi/example_cookie_cutter_ceda]
+[![Pypi](https://img.shields.io/pypi/v/example_cookie_cutter_ceda.svg)](https://pypi.python.org/pypi/example_cookie_cutter_ceda)
 
-[![Travis][https://img.shields.io/travis/ellesmith88/example_cookie_cutter_ceda.svg]][https://travis-ci.org/ellesmith88/example_cookie_cutter_ceda]
+[![Travis](https://img.shields.io/travis/ellesmith88/example_cookie_cutter_ceda.svg)](https://travis-ci.org/ellesmith88/example_cookie_cutter_ceda)
 
-[![Documentation][https://readthedocs.org/projects/example-cookie-cutter-ceda/badge/?version=latest]][https://example-cookie-cutter-ceda.readthedocs.io/en/latest/?badge=latest]
+[![Documentation](https://readthedocs.org/projects/example-cookie-cutter-ceda/badge/?version=latest)](https://example-cookie-cutter-ceda.readthedocs.io/en/latest/?badge=latest)
 
 
 
